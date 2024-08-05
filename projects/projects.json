@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Movie Recomendation",
+    "desc": "Developed a recommendation system that suggests movies to users based on their viewing history and preferences using machine learning algorithms.",
+    "image": "Movie",
+    "category": "Ml",
+    "links": {
+      "view": "https://www.linkedin.com/in/dipesh-adhikari-b438b1205/",
+      "code": "https://github.com/dpaceadk/Movie-Recomendation"
+    }
+  },
+  {
+    "name": "Stock Price Predection",
+    "desc": "Implemented a machine learning model to predict stock prices based on historical data and various market indicators.",
+    "image": "Stock",
+    "category": "Ml",
+    "links": {
+      "view": "https://www.linkedin.com/in/dipesh-adhikari-b438b1205/",
+      "code": "https://github.com/dpaceadk/Stock-Predection"
+    }
+  },
+  {
+    "name": "Resume Builder",
+    "desc": "Developed a comprehensive resume builder application that allows users to create, edit, and download professional resumes.",
+    "image": "resumegen",
+    "category": "laravel",
+    "links": {
+      "view": "https://www.linkedin.com/in/dipesh-adhikari-b438b1205/",
+      "code": "https://github.com/dpaceadk/Resume-Builder"
+    }
+  },
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/dpaceadk/Portfolio"
+    }
+  }
+  
+]
